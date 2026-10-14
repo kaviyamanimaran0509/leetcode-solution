@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -74,9 +75,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0052-n-queens-ii) |
 ## Algorithm X
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
