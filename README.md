@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0055-jump-game) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0052-n-queens-ii) |
