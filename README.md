@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0052-n-queens-ii) |
 ## Algorithm X
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0052-n-queens-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
