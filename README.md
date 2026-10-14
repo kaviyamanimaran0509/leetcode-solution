@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Hash Table
@@ -59,10 +60,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0233-number-of-digit-one) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
