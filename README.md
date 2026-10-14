@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0233-number-of-digit-one) |
 ## Bit Manipulation
@@ -58,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0233-number-of-digit-one) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
