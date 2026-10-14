@@ -71,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
