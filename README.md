@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
