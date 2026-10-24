@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0326-power-of-three) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0233-number-of-digit-one) |
+| [0326-power-of-three](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
