@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/kaviyamanimaran0509/leetcode-solution/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
